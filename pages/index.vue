@@ -1,5 +1,6 @@
 <template>
   <Tutorial />
+  1
 </template>
 
 <script lang="ts">
